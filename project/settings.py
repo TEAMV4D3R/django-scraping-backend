@@ -60,7 +60,6 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",
     # local
-    "accounts",
     "scraped_jobs"
 ]
 
