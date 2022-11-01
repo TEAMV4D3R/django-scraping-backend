@@ -1,6 +1,6 @@
 # Django Scraping Backend
 
-This is where we have created the data model for storing the scraped recommended jobs information for the user. The data model includes the scraped job position titles, locations, and the job URL. 
+This is where we have created the data model for storing the scraped recommended jobs information for the user. The data model includes the scraped job position titles, locations, company, the job application URL and the time and date created. This backend has been containerized for deployment. This backend was created from a template for which the initialization information is below. 
 
 ## api-quick-start
 
